@@ -2,9 +2,9 @@ name: Daily Commit
 
 on:
   schedule:
-    - cron: '0 4 * * *'   # Subah (IST 9:30)
-    - cron: '0 10 * * *'  # Dopahar (IST 3:30)
-    - cron: '0 16 * * *'  # Shaam (IST 9:30 PM)
+    - cron: '0 4 * * *'   # 
+    - cron: '0 10 * * *'  # 
+    - cron: '0 16 * * *'  #
   workflow_dispatch:
 
 permissions:
